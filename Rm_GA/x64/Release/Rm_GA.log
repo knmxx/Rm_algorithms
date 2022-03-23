@@ -1,0 +1,22 @@
+﻿D:\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(Rm_GA.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Rm_main.cpp
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_datareader.h(87): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_datareader.h(87): note: 请考虑在格式字符串中使用“%zd”
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_datareader.h(123): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_datareader.h(123): note: 请考虑在格式字符串中使用“%zd”
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_listschedule.h(346): warning C4838: 从“int”转换到“double”需要收缩转换
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_listschedule.h(366): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_ga.h(165): warning C4244: “+=”: 从“double”转换到“long”，可能丢失数据
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_pdp.h(93): warning C4805: “==”: 在操作中将类型“boolean”与类型“bool”混合不安全
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_main.cpp(20): warning C4477: “fprintf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 8 拥有了类型“__int64”
+  f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_main.cpp(20): note: 请考虑在格式字符串中使用“%lld”
+  f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_main.cpp(20): note: 请考虑在格式字符串中使用“%Id”
+  f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_main.cpp(20): note: 请考虑在格式字符串中使用“%I64d”
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_main.cpp(191): warning C4101: “ga_result”: 未引用的局部变量
+f:\旧电脑上\g\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\rm\rm\rm_ga\rm_main.cpp(191): warning C4101: “result”: 未引用的局部变量
+  正在生成代码
+  3 of 712 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Rm_GA.vcxproj -> F:\旧电脑上\G\我读书少你不要骗我\读研之路\研究方向\代码\调度代码\干净无注释\Rm\Rm\x64\Release\Rm.exe

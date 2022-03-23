@@ -1,0 +1,133 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rm", "Rm_GA\Rm_GA.vcxproj", "{B2E75443-A957-4889-BD11-8809450CA69A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{890C235A-4DBA-4BCF-95C7-C36A9B8AD748}"
+	ProjectSection(SolutionItems) = preProject
+		..\RTABU-master-ww\readme.md = ..\RTABU-master-ww\readme.md
+		D:\VS_workspace\RTABU-master-ww\readme.md = D:\VS_workspace\RTABU-master-ww\readme.md
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pm_GA", "..\Pm_GA\Pm_GA\Pm_GA.vcxproj", "{90D7BC51-49BB-4C66-A86F-E76D00EEB795}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fm_GA", "..\Fm_GA\Fm_GA\Fm_GA.vcxproj", "{001A0AA2-A8E2-46D8-8980-6E7621327145}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{890C235A-4DBA-4BCF-95C7-C36A9B8AD748}"
+	ProjectSection(SolutionItems) = preProject
+		..\RTABU-master-ww\readme.md = ..\RTABU-master-ww\readme.md
+		D:\VS_workspace\RTABU-master-ww\readme.md = D:\VS_workspace\RTABU-master-ww\readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleDatasetSystem", "F:\VSworkspace\Schedule\ScheduleDatasetSystem\ScheduleDatasetSystem\ScheduleDatasetSystem.csproj", "{EF35F61B-3E19-47EB-B311-106E87D31306}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BBLB_VC", "D:\VS_workspace\BBLB_PAPER-ww\BBLB_VC\BBLB_VC.vcxproj", "{853B4C43-3E79-44B9-B7C9-DC118799308C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RTABU", "D:\VS_workspace\RTABU-master-ww\RTABU\RTABU.vcxproj", "{5B107B46-2B91-4388-A9FE-A33FB0A0403E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{890C235A-4DBA-4BCF-95C7-C36A9B8AD748}"
+	ProjectSection(SolutionItems) = preProject
+		..\RTABU-master-ww\readme.md = ..\RTABU-master-ww\readme.md
+		D:\VS_workspace\RTABU-master-ww\readme.md = D:\VS_workspace\RTABU-master-ww\readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Debug|x64.ActiveCfg = Debug|x64
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Debug|x64.Build.0 = Debug|x64
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Debug|x86.Build.0 = Debug|Win32
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Release|x64.ActiveCfg = Release|x64
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Release|x64.Build.0 = Release|x64
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Release|x86.ActiveCfg = Release|Win32
+		{B2E75443-A957-4889-BD11-8809450CA69A}.Release|x86.Build.0 = Release|Win32
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Debug|x64.ActiveCfg = Debug|x64
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Debug|x64.Build.0 = Debug|x64
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Debug|x86.ActiveCfg = Debug|Win32
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Debug|x86.Build.0 = Debug|Win32
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Release|Any CPU.ActiveCfg = Release|Win32
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Release|x64.ActiveCfg = Release|x64
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Release|x64.Build.0 = Release|x64
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Release|x86.ActiveCfg = Release|Win32
+		{90D7BC51-49BB-4C66-A86F-E76D00EEB795}.Release|x86.Build.0 = Release|Win32
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Debug|x64.ActiveCfg = Debug|x64
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Debug|x64.Build.0 = Debug|x64
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Debug|x86.ActiveCfg = Debug|Win32
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Debug|x86.Build.0 = Debug|Win32
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Release|Any CPU.ActiveCfg = Release|Win32
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Release|x64.ActiveCfg = Release|x64
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Release|x64.Build.0 = Release|x64
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Release|x86.ActiveCfg = Release|Win32
+		{001A0AA2-A8E2-46D8-8980-6E7621327145}.Release|x86.Build.0 = Release|Win32
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Debug|x64.Build.0 = Debug|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Debug|x86.Build.0 = Debug|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Release|x64.ActiveCfg = Release|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Release|x64.Build.0 = Release|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Release|x86.ActiveCfg = Release|Any CPU
+		{EF35F61B-3E19-47EB-B311-106E87D31306}.Release|x86.Build.0 = Release|Any CPU
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Debug|x64.ActiveCfg = Debug|x64
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Debug|x64.Build.0 = Debug|x64
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Debug|x86.ActiveCfg = Debug|Win32
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Debug|x86.Build.0 = Debug|Win32
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Release|Any CPU.ActiveCfg = Release|Win32
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Release|x64.ActiveCfg = Release|x64
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Release|x64.Build.0 = Release|x64
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Release|x86.ActiveCfg = Release|Win32
+		{853B4C43-3E79-44B9-B7C9-DC118799308C}.Release|x86.Build.0 = Release|Win32
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Debug|x64.ActiveCfg = Debug|x64
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Debug|x64.Build.0 = Debug|x64
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Debug|x86.Build.0 = Debug|Win32
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Release|x64.ActiveCfg = Release|x64
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Release|x64.Build.0 = Release|x64
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Release|x86.ActiveCfg = Release|Win32
+		{5B107B46-2B91-4388-A9FE-A33FB0A0403E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1DBE8A4-4F1E-4D53-8167-7116E3D1FFA5}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
